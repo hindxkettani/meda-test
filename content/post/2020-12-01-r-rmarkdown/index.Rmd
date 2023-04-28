@@ -13,7 +13,7 @@ This tutorial was mostly written by Maxime Saland.
 
 
 ```{r MenuMEDA, out.width="80%", fig.align="left", echo=FALSE}
-#knitr::include_graphics("images/MenuMEDA.png")
+knitr::include_graphics("images/MenuMEDA.png")
 ```
 <br><br />
 
